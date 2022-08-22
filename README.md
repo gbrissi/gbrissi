@@ -23,4 +23,4 @@
 
  ## 
 
-<img src='https://c.tenor.com/YhsYQkC5OqIAAAAd/synth-synthwave.gif'></img>
+<div align='center'><img src='https://c.tenor.com/YhsYQkC5OqIAAAAd/synth-synthwave.gif'></img></div>
