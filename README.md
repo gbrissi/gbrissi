@@ -20,3 +20,4 @@
   <a style="margin-right: 15px" href = "mailto:gabrielrissisc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-rissi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+<div class="tenor-gif-embed" data-postid="26122625" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/outrun-vaporwave-trough-gif-26122625">Outrun Vaporwave GIF</a>from <a href="https://tenor.com/search/outrun-gifs">Outrun GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
