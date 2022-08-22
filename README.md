@@ -20,7 +20,3 @@
   <a style="margin-right: 15px" href = "mailto:gabrielrissisc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-rissi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
- ## 
-
-<div align='center'><img src='https://c.tenor.com/YhsYQkC5OqIAAAAd/synth-synthwave.gif'></img></div>
