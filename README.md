@@ -25,4 +25,3 @@
   
   ## 
   
-<div align='center'><img style='width: 100%' src='https://c.tenor.com/jLx1KVgZRpYAAAAC/outrun-vaporwave.gif'></img></div>
