@@ -23,4 +23,4 @@
  
   ## 
  
-<div align='center'><img src="https://c.tenor.com/jwHkGGFNoH8AAAAj/shiny-charmander-pokemon.gif"></div>
+<div align='center' style='height: 20px'><img src="https://c.tenor.com/jwHkGGFNoH8AAAAj/shiny-charmander-pokemon.gif"></div>
