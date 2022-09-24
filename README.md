@@ -24,4 +24,3 @@
  
   ## 
  
-<div align='center'><img style='width: 800px; height: 300px' src="https://c.tenor.com/Ms8Tbk4dEZ0AAAAC/akira.gif"></div>
